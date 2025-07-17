@@ -107,5 +107,5 @@ To convert numerical scores (1–5) into categorical sentiment:
 
 ---
 
-## 📁 Project Structure
+
 
